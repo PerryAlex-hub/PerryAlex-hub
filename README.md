@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Perry Alex
 
-🌱 A passionate fullstack developer.
+A passionate fullstack developer.
 
 ### Tech Stack
-`JavaScript` • `React` • `Next.js` • `Tailwind` • `Python` • `C`  • `Vue`  • `Nuxt`  
+`JavaScript` • `React` • `Next.js` • `Tailwind` • `Python` • `C`  • `Vue`  • `Nuxt` • `Express`  
 
-### 🛠️ Tools & Tech
+### Tools & Tech
 `Git` • `GitHub` • `Chrome DevTools`  • `Gitlab` • `Prisma`  • `Docker`   
 
 
-### 📬 Connect with me:
+### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ifechukwu-nwokedi-936250268/) | [Email](ifechinwokedi@gmail.com)
 
 ---
