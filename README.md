@@ -2,7 +2,7 @@
 
 🌱 A passionate fullstack developer.
 
-### 🚀 Tech Stack
+### Tech Stack
 `JavaScript` • `React` • `Next.js` • `Tailwind` • `Python` • `C`  • `Vue`  • `Nuxt`  
 
 ### 🛠️ Tools & Tech
@@ -13,4 +13,4 @@
 [LinkedIn](https://www.linkedin.com/in/ifechukwu-nwokedi-936250268/) | [Email](ifechinwokedi@gmail.com)
 
 ---
-🚀 **“Driven by passion, fueled by code unstoppable on the path to impact and the drive to enact.”**
+**“Driven by passion, fueled by code unstoppable on the path to impact and the drive to enact.”**
