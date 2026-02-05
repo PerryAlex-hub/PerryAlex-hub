@@ -3,7 +3,7 @@
 A passionate fullstack developer.
 
 ### Tech Stack
-`JavaScript` • `React` • `Next.js` • `Tailwind` • `Python` • `C`  • `Vue`  • `Nuxt` • `Express`  
+`JavaScript` • `React` • `Next.js` • `Tailwind` • `Python` • `C`  • `Vue`  • `Nuxt` • `Express` • `Node js`  
 
 ### Tools & Tech
 `Git` • `GitHub` • `Chrome DevTools`  • `Gitlab` • `Prisma`  • `Docker`   
