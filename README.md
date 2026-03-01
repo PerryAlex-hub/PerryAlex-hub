@@ -10,7 +10,7 @@ A passionate fullstack developer.
 
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/ifechukwu-nwokedi-936250268/) | [Email](ifechinwokedi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ifechukwu-nwokedi-936250268/) | [Email](mailto:ifechinwokedi@gmail.com)
 
 ---
 **“Driven by passion, fueled by code unstoppable on the path to impact and the drive to enact.”**
