@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 I am a Full Stack Engineer specialized in building high-performance, AI-driven applications and visually immersive web experiences.<br>
 My Portfolio: https://ifechukwu-portfolio-tau.vercel.app/<br>
