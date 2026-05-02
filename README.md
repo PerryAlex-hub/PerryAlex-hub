@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on qademy.app<br>
+I am a Full Stack Engineer specialized in building high-performance, AI-driven applications and visually immersive web experiences.<br>
+My Portfolio: https://ifechukwu-portfolio-tau.vercel.app/<br>
 
 
 ## 🌐 Socials:
